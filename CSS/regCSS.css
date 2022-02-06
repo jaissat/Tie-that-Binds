@@ -1,0 +1,26 @@
+#bound
+{
+height:1000px;
+width:1500px;
+border:1px solid;
+margin:0px auto;
+background-image:url('../media/reg.jpg');
+background-size:cover;
+}
+
+#in
+{
+height:1000px;
+width:900px;
+//border:1px solid;
+margin:0px auto;
+background-color:rgba(232,118,118,0.6);
+}
+
+#logo
+{
+height:180px;
+width:350px;
+//border:1px solid;
+margin:0px auto;
+}
