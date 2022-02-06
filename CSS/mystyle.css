@@ -430,7 +430,7 @@ text-align:center;
 #back
 {
   height:3500px;
-  width:1050px;
+  max-width:2050px;
   background-image:url('../media/bg.jpg');
   background-size:cover;
 }
